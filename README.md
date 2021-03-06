@@ -1,5 +1,5 @@
 
-# Laboratório de Provisionamento de INfra
+# Laboratório de Provisionamento de Infra
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/thiago88sp/Laboratório de Provisionamento de Infra)
 
 # Description
@@ -38,7 +38,13 @@ This project is license under the N/A license.
 
 # Tests
 
-To run tests, you need to run the following command: N/A
+To run tests, you need to run the following command: 
+
+az login
+terraform init
+terraform apply
+
+Read the plan and after "Confirm"
 
 # Questions
 
