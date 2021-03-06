@@ -40,9 +40,7 @@ This project is license under the N/A license.
 
 To run tests, you need to run the following command: 
 
-az login
-terraform init
-terraform apply
+az login / terraform init terraform apply
 
 Read the plan and after "Confirm"
 
